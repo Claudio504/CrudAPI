@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "me0IUTBR35GxyzpyVIYiBS4ROtx/iFeC1bqWrM+CwRA=",
+  "Source": "WebAPI_CrudTarget",
+  "BasePath": "_content/WebAPI_CrudTarget",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
